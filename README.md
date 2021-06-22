@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatma Çetin</h1>
 <h3 align="center">Computer Engineer from Ankara,Turkey</h3>
 
-- 🌱 I’m currently learning **React.js, Vue.js**
+- 🌱 I’m currently learning **React.js**
 
 - 📝 I regularly write articles on [https://fatmacetin.medium.com/](https://fatmacetin.medium.com/)
 
