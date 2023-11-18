@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fatma Çetin</h1>
-<h3 align="center">Backend Developer | Blockchain Developer from Ankara,Turkey</h3>
+<h3 align="center">Backend Developer from Ankara,Turkey</h3>
 
 
 - 📝 I regularly write articles on [https://fatmacetin.medium.com/](https://fatmacetin.medium.com/)
 
-- 💬 Ask me about **solidity, smart contracts, laravel**
+- 💬 Ask me about **slaravel, php, solidity, smart contracts**
 
 - 📫 How to reach me **fatmazeynepcetin@gmail.com**
 
